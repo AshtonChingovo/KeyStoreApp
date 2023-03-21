@@ -19,4 +19,4 @@ Though small the Keystore app is built using the standard MVVM architecture. The
 
 # Configuration 
 
-No configuration is required, the app is ready to install and work on the go 
+No configuration is required, the app is ready to run off your test device from Android Studio :)
