@@ -3,7 +3,7 @@
 The KeyStore app shows how the android Keystore system works. It encrypts user provided data and then decrypts the latest encrypted data and shows it to the user. 
 The app primarily converts the user input into a byteArray and then uses specified algorithms to facilitate the encryt and decrypt processes of the data using the generated Key and created encryption & decryption Ciphers. 
 
-# Features
+# Tools
 
 The app is built using   
 * Kotlin
