@@ -17,3 +17,6 @@ The app is built using
 
 Though small the Keystore app is built using the standard MVVM architecture. The architecture helps in managing the UI state & hoisting the UI state to the ViewModel
 
+# Configuration 
+
+No configuration is required, the app is ready to install and work on the go 
